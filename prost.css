@@ -1,0 +1,45 @@
+body {
+    background-color:black;
+}
+.nachalo {
+    text-align:center;
+    color:white;
+}
+h1 {
+    margin-bottom:20px;
+    font-size:50px;
+    font-family: "Montseratt"
+}
+h2 {
+    margin-top:20px;
+    font-size:50px;
+    font-family: "Montseratt"
+}
+.text {
+    font-family:"Montseratt"
+}
+.knopki {
+    margin-top:50px;
+    display:flex;
+    justify-content:center;
+}
+.knopki a {
+    margin:0 5px;
+}
+a {
+    padding: 7px 15px;
+    background-color: rgb(10, 10, 10);
+    color:grey;
+    border-radius:10px;
+    border:2px solid white;
+    text-decoration:none;
+}
+a:hover {
+    border-radius:15px;
+    background-color:#483D8B;
+    color:white;
+}
+img {
+    margin-top : 100 px;
+    width:700px;
+}
